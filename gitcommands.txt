@@ -23,6 +23,7 @@
   25 git remove -v
   27 git status                                                                               
   28 git remote set -url origin
-   32 git remote -v                                                                            
-  33 git push origin master                                                                   
-  34 git histo                                                     
+29 git remote -v                                                                            
+  30 git push origin master                                                                   
+  31 git history
+this is new changes
