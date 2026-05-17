@@ -11,4 +11,18 @@
   13 restore test.py                                               
   14 git restore test.py                                           
   15 git status                                                    
-  16  clear                                                        
+  16  clear   
+  17 history                                                                                  
+  18 git status                                                                               
+  19 git add gitcommand.txt                                                                   
+  20 git add gitcommands.txt                                                                  
+  21 git status                                                                               
+  22 git commit -m "track gitcommands.txt"                                                    
+  23 git status                                                                               
+  24 git remote add origin https://github.com/RoshaniShakya/gitfordevops.git                  
+  25 git remove -v
+  27 git status                                                                               
+  28 git remote set -url origin
+   32 git remote -v                                                                            
+  33 git push origin master                                                                   
+  34 git histo                                                     
